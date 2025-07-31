@@ -13,7 +13,7 @@ from streamlit_echarts import st_echarts
 
 #from streamlit.server.server import Server
 # from streamlit.script_run_context import get_script_run_ctx as get_report_ctx
-from streamlit.scriptrunner import get_script_run_ctx as get_report_ctx
+#from streamlit.scriptrunner import get_script_run_ctx as get_report_ctx
 
 import graphviz
 import pydeck as pdk
